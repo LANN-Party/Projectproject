@@ -35,6 +35,7 @@ public class Employee
       return hireDay;
    }
 
+<<<<<<< HEAD
    public void raiseSalary(double byDecimalValue)
    {
       double raise = salary * byDecimalValue;
